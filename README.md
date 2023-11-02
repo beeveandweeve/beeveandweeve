@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+# Congrats!
+<p>You found the second step... Now what else do we know about Open-Source Intelligence?</p>
 <!--
 **beeveandweeve/beeveandweeve** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
